@@ -1,1 +1,4 @@
-
+/* Disable suggestions from Microsoft Store */
+.storeAppsGroup {
+  display: none;
+}
